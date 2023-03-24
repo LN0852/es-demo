@@ -1,0 +1,39 @@
+ES6:
+    1:模板字符串
+    2:扩展运算符
+    3:默认参数
+    4:箭头函数
+    5:解构赋值
+    6:module模块化
+    7:const let 新的声明方式
+    8:class类（语法糖）
+    9:Symbol数据类型
+    10:Proxy代理
+    11:Reflect反射
+    12:数组扩展 => 
+    13:对象扩展 => 
+    14:iterator迭代器
+    15:Generator异步变成解决方案
+    16:两种新的数据类型（Set 和 Map）
+    17:函数的扩展 => 
+    18:数值的扩展 => 
+ES7:
+    1:数据扩展，引入includes实例方法
+    2:幂运算符号扩展 2**10 = 1024
+ES8:
+    1:async await异步编程解决方案
+    2:对象扩展：Object.values() Object.entries()
+    3:字符串扩展：padStart() padend() 实例方法
+    4:function 引入了尾逗号的写法
+ES9:
+    异步迭代：for-await-of 异步迭代协议， Symbol.asyncIterator
+    正则表达式：dotAll模式，具名分组匹配
+    对象扩展： Rest
+    Promise：引入Promise.prototype.finally()  then catch finally
+ES10:
+    function中toString()的修改
+    String引入trimStart trimEnd
+    Array引入扁平化函数：Array.prototype.flat()
+    Object扩展了fromEntries() ,将二维数组、Map等键值对形式的数据转为objecct
+    JSON的增强
+    Symbol的扩展:description 获取一个Symbol数据的描述
